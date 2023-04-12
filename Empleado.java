@@ -1,5 +1,11 @@
+/**
+ * Esta es una clase para probar a documentar
+*/
 package ies;
-
+/**
+ * @author Francisco Nolasco
+ * @version 0.0
+ */
 public class Empleado {
 	private int emp_no;
 	private String nombre;
